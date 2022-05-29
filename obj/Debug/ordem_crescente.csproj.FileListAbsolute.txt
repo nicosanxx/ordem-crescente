@@ -1,0 +1,10 @@
+C:\Users\nico\source\repos\ordem_crescente\bin\Debug\ordem_crescente.exe.config
+C:\Users\nico\source\repos\ordem_crescente\bin\Debug\ordem_crescente.exe
+C:\Users\nico\source\repos\ordem_crescente\bin\Debug\ordem_crescente.pdb
+C:\Users\nico\source\repos\ordem_crescente\obj\Debug\ordem_crescente.csproj.AssemblyReference.cache
+C:\Users\nico\source\repos\ordem_crescente\obj\Debug\ordem_crescente.Form1.resources
+C:\Users\nico\source\repos\ordem_crescente\obj\Debug\ordem_crescente.Properties.Resources.resources
+C:\Users\nico\source\repos\ordem_crescente\obj\Debug\ordem_crescente.csproj.GenerateResource.cache
+C:\Users\nico\source\repos\ordem_crescente\obj\Debug\ordem_crescente.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\ordem_crescente\obj\Debug\ordem_crescente.exe
+C:\Users\nico\source\repos\ordem_crescente\obj\Debug\ordem_crescente.pdb
